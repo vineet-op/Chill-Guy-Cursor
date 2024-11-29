@@ -1,5 +1,7 @@
 # Custom Chill Cursor
 
+![78083-chillguy](https://github.com/user-attachments/assets/a3c54903-e80f-4c52-8530-01bf82fa3fb5)
+
 A highly customizable animated cursor component for React applications with smooth particle effects and click animations.
 
 ## Features

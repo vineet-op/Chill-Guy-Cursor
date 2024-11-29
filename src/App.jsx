@@ -5,7 +5,7 @@ import chillGuy from './image/chillguy.png'
 const App = () => {
   const copyToClipboard = () => {
     navigator.clipboard.writeText('npm i custom-chill-cursor');
-    alert('Command copied to clipboard!');
+    alert('copied to clipboard!');
   };
 
   return (
@@ -45,15 +45,15 @@ const App = () => {
 
       />
 
-      <footer className="absolute bottom-0 w-full text-center p-4 bg-gradient-to-r from-blue-500 to-purple-600 text-white">
+      <footer className="absolute bottom-0 w-full text-center p-4 bg-gradient-to-r text-lg font-mono bg-blkack-800 text-white">
         <span role="img" aria-label="heart">❤️</span> Created with love by
         <a
-          href="https://www.linkedin.com/in/your-linkedin-profile"
+          href="https://www.linkedin.com/in/vineet-op"
           target="_blank"
           rel="noopener noreferrer"
           className="text-yellow-300 hover:text-yellow-500 ml-1"
         >
-          Vineet
+          <b > Vineet🔥</b>
         </a>
       </footer>
     </div>

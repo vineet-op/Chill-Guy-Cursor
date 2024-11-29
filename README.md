@@ -18,8 +18,9 @@ A highly customizable animated cursor component for React applications with smoo
 
 import CustomCursor from 'custom-chill-cursor'
 
-and use it in your project
-<CustomCursor
+3. Use it in your project as a componenet
+
+`<CustomCursor
 cursorImage={chillGuy}
 />
 

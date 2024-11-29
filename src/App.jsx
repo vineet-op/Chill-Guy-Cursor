@@ -42,7 +42,7 @@ const App = () => {
 
       <CustomCursor
         cursorImage={chillGuy}
-      // cursorSize={100}
+
       />
 
       <footer className="absolute bottom-0 w-full text-center p-4 bg-gradient-to-r from-blue-500 to-purple-600 text-white">

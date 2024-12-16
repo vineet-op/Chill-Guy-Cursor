@@ -4,6 +4,12 @@
 
 A highly customizable animated cursor component for React applications with smooth particle effects and click animations.
 
+
+
+https://github.com/user-attachments/assets/b6afdfcd-ddae-482c-8978-e34e7f0808a6
+
+
+
 ## Features
 
 - 🎯 Smooth cursor movement
